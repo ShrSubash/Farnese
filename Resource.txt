@@ -1,0 +1,6 @@
+--Software Development Kits (SDK)
+https://www.hikvision.com/en/support/download/
+
+
+--OpenCvSharp
+https://www.nuget.org/packages/OpenCvSharp-AnyCPU
